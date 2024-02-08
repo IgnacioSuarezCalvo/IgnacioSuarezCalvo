@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ignaciosuarezcalvo" alt="ignaciosuarezcalvo" /></a> </p>
 
+- 🔭 I’m currently student of **Industrial Design, User Experience and now a FrontEnd Developer**
+
 - 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **Some frameworks and currently on Applications development**

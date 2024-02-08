@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ifsuarez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ifsuarez/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/nachitooss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nachitooss/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/ignaciosuarez3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ignaciosuarez3" height="30" width="40" /></a>
+<a href="https://discord.gg/nachitoos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nachitoos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
